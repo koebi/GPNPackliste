@@ -1,6 +1,6 @@
 # GPNPackliste
 
-Pack- und ToDo-Liste für Chaosveranstaltungen im Allgemeinen und die GPN im speziellen
+Packliste für Chaosveranstaltungen im Allgemeinen und die GPN im Speziellen
 
 ---
 
