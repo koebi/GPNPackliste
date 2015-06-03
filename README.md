@@ -185,15 +185,6 @@ Einmal alles, was du gerade anhast, für jeden Tag frisch, einpacken. Dann: was 
 - Decke
 - Kissen (und Schlafsack/Isomatte, je nach Schlafplatz)
 
-## Falls du einen Hund o.ä. dabei hast
-- Decke
-- Essen (nass und trocken, Snacks)
-- Wasser/Essensbehälter
-- Bürste
-- Zeckenzange
-- Notfall-Leine
-- Medikamente
-
 ## Links
 [01]:https://github.com/MacLemon/CongressChecklist
 [02]:https://entropia.de/GPN15
