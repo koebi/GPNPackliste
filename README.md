@@ -164,7 +164,7 @@ Einmal alles, was du gerade anhast, für jeden Tag frisch, einpacken. Dann: was 
 - Switch/Router, um auch andere Leute internetifizieren zu können
 - Taschenlampe (plus Ersatzbatterien/Ladegerät)
 - Handy
-- DECT-Fon (denk dran, dich bei [Eventphone][10] zu registrieren
+- DECT-Fon (denk dran, dich beim [POC][10] zu registrieren
 - USB-Kabel (Micro, Mini, Nano, …) , um alles zu laden (und, weil irgendwer seins sicher vergessen hat)
 - Tragbarer Akku, geladen! (Denk an das Kabel!)
 - Kopfhörer (zwei Paar, eins mit guter Audioqualität und eins für unterwegs)
