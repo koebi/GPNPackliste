@@ -1,11 +1,11 @@
 # GPNPackliste
 
-Pack- und ToDo-Liste für Chaosverantstaltungen und die GPN im speziellen
+Pack- und ToDo-Liste für Chaosveranstaltungen im Allgemeinen und die GPN im speziellen
 
 ---
 
 ## Ein paar Worte vorweg:
-Dieses Projekt ist inspiriert von der [CongressChecklist][001] von [MacLemon][100].
+Dieses Projekt ist inspiriert von der [CongressChecklist][01] von [MacLemon][99].
 Da dieses grossartige, hilfreiche Dokument leider auf Englisch verfasst ist,
 und also Leuten, die dieser Sprache nicht im benötigten Maße mächtig sind,
 keine Hilfe sein kann, gibt es jetzt diese modifizierte Fassung auf Deutsch.
@@ -21,7 +21,7 @@ keine Hilfe sein kann, gibt es jetzt diese modifizierte Fassung auf Deutsch.
 - Schreib 'nen Pull-Request für alles, was ich vergessen habe
 - Füttere deine Kaninchen und kümmer dich um deine Tarantel
 - Bewässer deine Pflanzen
-- Erstelle einen Account im [GPN-Wiki][002], [füge deine Projekte hinzu][003],  und trag dich ins [Trollsystem][004] ein.
+- Erstelle einen Account im [GPN-Wiki][02], [füge deine Projekte hinzu][03],  und trag dich ins [Trollsystem][04] ein.
 
 ## Dinge die im Flugzeug nur stören
 Zeugs, dass du bei einem Flug nicht dabei haben darfst, solltest du mit der Post oder irgendwie anders an deinen Zielort schicken.
@@ -42,8 +42,8 @@ Zeugs, dass du bei einem Flug nicht dabei haben darfst, solltest du mit der Post
 - Personalausweis
 - Führerschein
 - Buchungsbestätigung fürs Hostel
-- [Hackerspace Ausweis][005]
-- einen [Organspendeausweis][006] (Ich hoffe wirklich, dass du ihn nicht brauchst, aber im Zweifel rettest du Leben)
+- [Hackerspace Ausweis][05]
+- einen [Organspendeausweis][06] (Ich hoffe wirklich, dass du ihn nicht brauchst, aber im Zweifel rettest du Leben)
 - deine Krankenkassenkarte
 
 ### Geld
@@ -59,10 +59,12 @@ Zeugs, dass du bei einem Flug nicht dabei haben darfst, solltest du mit der Post
 ### Notfall-Information
 Im Falle eines Unfalls oder eines anderen Notfalls, hab immer eine Karte mit der zu kontaktierenden Person und allen wichtigen Notfallmedikationen, die wichtig werden könnten, dabei.
 
-#### Für die GPN:
+#### Notfall-Informationen für die GPN:
 Wenn du in einen Notfall verwickelt sein solltest, ruf laut um HILFE! (oder schrei Feuer, soll mehr bringen…)
 
 Falls Du Hilfe benötigen solltest, ruf nach ihr, es sind viele Leute da, die dir helfen können.
+
+Guck dir auf jeden Fall die [FAQ][07] an.
 
 - Feuer/Unfall: Ruf 112 an
 - Wachdienst: TODO
@@ -112,7 +114,8 @@ Falls Du Hilfe benötigen solltest, ruf nach ihr, es sind viele Leute da, die di
 #### Reiseapotheke
 - Pflaster
 - Aspirin (Falls der Kater zu hart trifft)
-- 
+TODO!!
+
 
 
 #### Persönliche Medikamente
@@ -120,8 +123,8 @@ Deine Persönliche Medikation gehört nicht ins Internet!
 Das ist nur eine Erinnerung, damit du sie nicht vergisst. Nimm dir bitte auch eine Anleitung dafür mit, falls du mal nicht in der Lage sein solltest, dich selbst zu verarzten.
 
 ### Stundenplan
-- Guck dir im Vorraus den [Fahrplan][006] an, und markier dir schon mal Talks und Workshops, die dich interessieren
-- Installier dir eine der Fahrplan-Apps, zu finden im [Playstore][007] oder im [Appstore][008]
+- Guck dir im Vorraus den [Fahrplan][08] an, und markier dir schon mal Talks und Workshops, die dich interessieren
+- Such dir Schichten raus, in denen du nichts zu tun hast, und [trolle][04]
 - Sieh zu, dass du dein Shirt/Hoodie/$Klamotte rechtzeitig bekommst
 
 ### Klamotten
@@ -147,9 +150,9 @@ Einmal alles, was du gerade anhast, für jeden Tag frisch, einpacken. Dann: was 
 - laptop (mit geladenem, funktionierendem Akku)
 - Ladekabel fürs Laptop
 - Ladekabel für Handy, Rasierer, Headset, $Akku-betriebenes Gerät
-- Adapter für deinen Stecker <-> [Schuko-Stecker][009]
-- Mehrfachsteckdose (230V AC @50Hz) mit [Schuko-Stecker][009]
-- Verlängerungskabel (230V AC @50Hz) mit [Schuko-Stecker][009]
+- Adapter für deinen Stecker <-> [Schuko-Stecker][09]
+- Mehrfachsteckdose (230V AC @50Hz) mit [Schuko-Stecker][09]
+- Verlängerungskabel (230V AC @50Hz) mit [Schuko-Stecker][09]
 - externe Festplatte
 	- pack eine OWNER.txt mit deinen Kontaktinformationen drauf
 	- denk für sensible Daten an Verschlüsselung
@@ -161,7 +164,7 @@ Einmal alles, was du gerade anhast, für jeden Tag frisch, einpacken. Dann: was 
 - Switch/Router, um auch andere Leute internetifizieren zu können
 - Taschenlampe (plus Ersatzbatterien/Ladegerät)
 - Handy
-- DECT-Fon (denk dran, dich bei [Eventphone][010] zu registrieren
+- DECT-Fon (denk dran, dich bei [Eventphone][10] zu registrieren
 - USB-Kabel (Micro, Mini, Nano, …) , um alles zu laden (und, weil irgendwer seins sicher vergessen hat)
 - Tragbarer Akku, geladen! (Denk an das Kabel!)
 - Kopfhörer (zwei Paar, eins mit guter Audioqualität und eins für unterwegs)
@@ -171,8 +174,36 @@ Einmal alles, was du gerade anhast, für jeden Tag frisch, einpacken. Dann: was 
 -LADEKABEL für ALLES!
 
 ### Sonstiges
-- Taschenmesser
+- Taschenmesser (das dem [deutschen Waffengesetz][11] genügt)
+- Schraubenzieher mit Bit-Set
+- Lötkolben
+- andere Werkzeuge die du (vermutlich nicht) brauchst
+- Notizbuch (Totbaum-Zeugs)
+- Stifte (Bleistift, Kuli, Edding)
+- Musikinstrumente (Gitarre, Trompete, Flügel, Theremin, …) mit Stimmgerät
+- Duct Tape/Gaffer Tape
+- Decke
+- Kissen (und Schlafsack/Isomatte, je nach Schlafplatz)
+
+## Falls du einen Hund o.ä. dabei hast
+- Decke
+- Essen (nass und trocken, Snacks)
+- Wasser/Essensbehälter
+- Bürste
+- Zeckenzange
+- Notfall-Leine
+- Medikamente
 
 ## Links
-[001]:https://github.com/MacLemon/CongressChecklist
-[100]:https://github.com/MacLemon
+[01]:https://github.com/MacLemon/CongressChecklist
+[02]:https://entropia.de/GPN15
+[03]:https://frab.cccv.de/en/gpn15/cfp
+[04]:https://trollsystem.de/
+[05]:https://www.noisebridge.net/wiki/passport
+[06]:https://www.organspende-info.de/
+[07]:https://entropia.de/GPN15:FAQ
+[08]:https://entropia.de/GPN15:Fahrplan
+[09]:https://de.wikipedia.org/wiki/Schuko
+[10]:https://entropia.de/GPN15:Dect
+[11]:http://en.wikipedia.org/wiki/Knife_legislation#Germany
+[99]:https://github.com/MacLemon
