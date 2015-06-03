@@ -16,11 +16,12 @@ keine Hilfe sein kann, gibt es jetzt diese modifizierte Fassung auf Deutsch.
 - Sorge dafür, dass Software auf deinem Laptop aktuell ist
 - Mach auf deinen Speichermedien Platz für VOLLKOMMEN LEGALE Mediendateien, die gegebenenfalls rumliegen könnten
 - Beschrifte deine Dinge mit Namen, besonders dann, wenn die Gefahr bestehen könnte, sie zu verleihen (Mehrfachsteckdosen, Kabel,…). Twitter-Handles sind großartige Beschriftung, weil Leuten direkt klar ist, wie sie dich erreichen können. Nimm Edding statt Stickern, um Diebstahl vorzubeugen
-- Du HAST backups von deinen Geräten, oder? Das schliesst E-Book-Reader, Server, Smartphone, Tablet, GPS-Gerät, Smart-Watch und alle anderen $Geräte mit ein
+- Du HAST Backups von deinen Geräten, oder? Das schliesst E-Book-Reader, Server, Smartphone, Tablet, GPS-Gerät, Smart-Watch und alle anderen $Geräte mit ein
 - Speicher deine Backups nicht nur auf dem Gerät, das du backupst, oder einem anderen, das du mitnimmst, sondern an mindestens einem sicheren Ort. Ein Schweizer Atombunker zum Beispiel, falls du gerade einen zur Hand hast.
 - Schreib 'nen Pull-Request für alles, was ich vergessen habe
 - Füttere deine Kaninchen und kümmer dich um deine Tarantel
 - Bewässer deine Pflanzen
+- Eintritt ist zwar frei, Ticket brauchst du auch nicht, aber melde dich doch trotzdem an, wenn du vorhast, zu kommen :)
 - Erstelle einen Account im [GPN-Wiki][02], [füge deine Projekte hinzu][03],  und trag dich ins [Trollsystem][04] ein.
 
 ## Dinge die im Flugzeug nur stören
@@ -38,7 +39,6 @@ Zeugs, dass du bei einem Flug nicht dabei haben darfst, solltest du mit der Post
 
 ### Dokumente/Formalia
 - Zug/Bahntickets (inklusive Nachweis über Echtheit für Online-Tickets (Perso o.ä.)
-- GPN-Ticket (ausgedruckt oder auf dem Fon/Laptop/…)
 - Personalausweis
 - Führerschein
 - Buchungsbestätigung fürs Hostel
